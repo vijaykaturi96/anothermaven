@@ -22,12 +22,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://likelinux.net:8081/repository/sample-rel/</url>
+            <url>http://likelinux.net:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://likelinux.net:8081/repository/sample-sanp/</url>
+            <url>http://likelinux.net:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
