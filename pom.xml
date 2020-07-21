@@ -4,7 +4,7 @@
   <groupId>net.likelinux</groupId>
   <artifactId>black-knight</artifactId>
   <packaging>war</packaging>
-  <version>2.8</version>
+  <version>3.0-SNAPSHOT</version>
   <name>black-knight Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -22,12 +22,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://likelinux.net:8081/repository/maven-releases/</url>
+            <url>http://localhost.net:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://likelinux.net:8081/repository/maven-snapshots/</url>
+            <url>http://localhost:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
