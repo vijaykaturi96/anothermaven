@@ -4,7 +4,7 @@
   <groupId>net.likelinux</groupId>
   <artifactId>black-knight</artifactId>
   <packaging>war</packaging>
-  <version>3.1-SNAPSHOT</version>
+  <version>3.1</version>
   <name>black-knight Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
